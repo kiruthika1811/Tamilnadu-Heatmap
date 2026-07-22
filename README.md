@@ -124,4 +124,5 @@ The project generates the following outputs:
 - 📈 Spatial distribution analysis of temple locations
 - 🧭 Final GIS map layout with title, legend, north arrow, and scale bar
 - 📄 Exported map in PNG/PDF format for presentation
-- ![Uploading gis ss 2.png…]()
+- <img width="1019" height="756" alt="gis ss 2" src="https://github.com/user-attachments/assets/5aeeb18b-c075-46f1-953d-f1a455d6beea" />
+
