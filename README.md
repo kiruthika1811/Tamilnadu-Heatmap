@@ -1,4 +1,4 @@
-# 🛕 Spatial Distribution and Heat Map Analysis of Hindu Temples in India using QGIS
+# 🛕 Spatial Distribution and Heat Map Analysis of Temples in India using QGIS
 
 ## 📖 Project Overview
 
